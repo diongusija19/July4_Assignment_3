@@ -57,14 +57,12 @@ A research-based documentation project exploring Apple Inc.’s impact on techno
 - [@diongusija19](https://github.com/diongusija19)  
 
 
----
-
-## 🛠️ Instructions below
+## 🛠️ Instructions
 
 ### 🔧 How to Install
 
-```bash
-git clone https://github.com/diongusija19/July4_Assignment_3.git
+
+git clone hhttps://github.com/diongusija19/July4_Assignment_3.git
 cd July4_Assignment_3
 
 ▶️ How to Use
