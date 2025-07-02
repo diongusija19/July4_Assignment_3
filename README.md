@@ -57,12 +57,19 @@ A research-based documentation project exploring Apple Inc.’s impact on techno
 - [@diongusija19](https://github.com/diongusija19)  
 
 
----
-
 ## 🛠️ Instructions
 
 ### 🔧 How to Install
 
-```bash
+
 git clone hhttps://github.com/diongusija19/July4_Assignment_3.git
 cd July4_Assignment_3
+
+▶️ How to Use
+Open index.md or main wiki files
+
+Browse topics by product or year
+
+View Apple’s product evolution, features, and AI integration
+
+Optional: Add your own research or update the timeline
